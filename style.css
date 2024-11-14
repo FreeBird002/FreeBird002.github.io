@@ -11,10 +11,8 @@
      font-size:  24px;
     }
 
-.grid {
-   
-  grid-template-columns: 100px 1fr;
- 
+   .grid {
+     grid-template-columns: auto auto;
     }
 
 .grid img {
